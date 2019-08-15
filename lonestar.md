@@ -1,5 +1,6 @@
 ---
 title: Project Lonestar
+layout: page
 ---
 
 # Project Lonestar
@@ -14,7 +15,7 @@ Originally developed in 2017 in the Unreal Engine and migrated to Unity in late 
 The initial idea was to remake Freelancer in a modern engine using the original assets.
 Because of legal concerns and not wanting to implement features that I don't think have aged well over time, the project turned into a spiritual successor.
 
-![lonestar-menu](../img/lonestar-menu.png)
+<img src="../img/lonestar-menu.png" width="500" height="400">
 
 I always thought that Freelancer was a little bit too slow and seemed too empty.
 After the main singleplay story is over, there is little to do in the universe.
