@@ -1,0 +1,22 @@
+---
+layout: post
+---
+
+Throughout university, I was constantly reminded that it really doesn't matter much about your grades.
+What matters most are the side projects you do.
+
+I did not listen. I would go to some of my classes, ignore the ones before 10 AM, and
+do the absolute bare minimum of work to get a C.
+Because of this: I'm nowhere near as experienced as I could be if I had taken an active interest 
+in software development (in general) outside of class.
+
+Do NOT rely on University to get you enough knowledge in order to go out and be a developer.
+You must supplement your learning with side projects. It hardly matters what these side projects are.
+They just have to be some kind of manifestation of progress in some way.
+You should try and make something that is presentable in some way shape or form...
+
+And at the very least be able to
+talk about what you learned, how you engineered/designed the thing, and what you did well/poorly.
+
+This expands into other elements of human nature. You have to create things. Engineers must build.
+If you can't show the thing to someone, did you really make it? Did it mean anything?
