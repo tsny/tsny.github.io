@@ -3,19 +3,19 @@ title: Project Lonestar
 layout: page
 ---
 
-# Project Lonestar
-
 Project Lonestar is a POC space combat and exploration game.
 It is heavily inspired by Digital Anvil's <a href="https://en.wikipedia.org/wiki/Freelancer_(video_game)">Freelancer</a>.
 
-### History
+<h2 class="mt-2"> History</h2>
 
 Originally developed in 2017 in the Unreal Engine and migrated to Unity in late 2018.
 
 The initial idea was to remake Freelancer in a modern engine using the original assets.
 Because of legal concerns and not wanting to implement features that I don't think have aged well over time, the project turned into a spiritual successor.
 
-<img src="../img/lonestar-menu.png" width="500" height="400">
+<br>
+<img class="my-3" src="../img/lonestar-menu.png" width="500" height="400">
+<br>
 
 I always thought that Freelancer was a little bit too slow and seemed too empty.
 After the main singleplay story is over, there is little to do in the universe.
@@ -30,15 +30,22 @@ Project Lonestar aims to expand upon space combat by giving more movement and of
 
 Modern game mechanics actually feel pretty good in a 3rd person space sim.
 
-### Abilities
+<br>
+<h1 class="mt-3">Abilities</h1>
 
-* Blink
-* Sidestep
-* Cloak
-* Roll
-* Charge weapons
+<ul>
+    <li>Blink</li>
+    <li>Sidestep</li>
+    <li>Cloak</li>
+    <li>Roll</li>
+    <li>Charge Weapons</li>
+</ul>
+<br>
 
-### Links
-* [Repo](https://github.com/tsny/ProjectLonestar)
-* [Download](https://tsny.itch.io/project-lonestar)
-* [Youtube Devlog](https://www.youtube.com/watch?list=PLJBwf54kzZ-DsLQSUhFRbUjZXIO6FOq_4&v=9Mg-j2_b-04)
+<h3>Links</h3>
+<a href="https://github.com/tsny/ProjectLonestar">Repo</a>
+<br>
+<a href="https://tsny.itch.io/project-lonestar">Download</a>
+<br>
+<a href="https://www.youtube.com/watch?list=PLJBwf54kzZ-DsLQSUhFRbUjZXIO6FOq_4&v=9Mg-j2_b-04">Devlog</a>
+<br>
