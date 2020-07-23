@@ -1,5 +1,6 @@
 layout: sidebar
 style: dark
+title: @ home w/ tsny
 
 plugins:
   - jekyll-octicons
