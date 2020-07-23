@@ -1,12 +1,11 @@
 layout: sidebar
 style: dark
-title: @ home w/ tsny
+title: tsny
 
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
-  - jekyll-giphy
 
 permalink: /:year/:month/:day/:title/
 
